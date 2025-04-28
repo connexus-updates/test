@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "downloads": {
+    "windows": "https://github.com/user/repo/releases/download/v1.2.0/app_windows.exe",
+    "macos": "https://github.com/user/repo/releases/download/v1.2.0/app_macos.pkg",
+    "linux": "https://github.com/user/repo/releases/download/v1.2.0/app_linux.AppImage"
+  }
+}
