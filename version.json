@@ -1,5 +1,6 @@
 {
   "version": "1.2.0",
+  "patch_notes": "- Patched some holes in key security\n- Added customizable key request\n- Added more failsafes and testcases\n- Big optimizations in page loading\n- Added exporting of answers if the client page isn't working",
   "downloads": {
     "windows": "https://github.com/connexus-updates/test/releases/download/v1.2.0/ConnexusClientWin.zip"
   }
