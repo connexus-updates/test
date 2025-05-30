@@ -2,7 +2,7 @@
   "version": "1.2.2",
   "patch_notes": "- Emergency fix for new pearson login system\n - Extra logging\n - Fixed some quirks with the answer GUI",
   "downloads": {
-    "windows": "https://github.com/connexus-updates/test/releases/download/v1.2.2/ConnexusClientWindows.zip"
+    "windows": "https://github.com/connexus-updates/test/releases/download/v1.2.2/ConnexusClientWindows.zip",
     "macos": "https://github.com/connexus-updates/test/releases/download/v1.2.2/ConnexusClientMacOS.zip"
   }
 }
